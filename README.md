@@ -1,1 +1,1 @@
-# Heart_Diesis_Prediction_Model
+# Heart_Diseases_Prediction_Model
