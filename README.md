@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction System
+# Heart Disease Prediction System
 
 A machine learning-based web application to predict the likelihood of heart disease based on user input parameters. This project aims to assist in early diagnosis and decision support for healthcare professionals and individuals.
 
