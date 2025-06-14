@@ -30,6 +30,9 @@ This project uses a trained machine learning model to analyze medical features a
 - **HTML/CSS** – Frontend design
 
 ---
+## Screenshort
+![Screenshot (985)](https://github.com/user-attachments/assets/383253e6-79d7-44e6-84cf-8d0c332cb424)
+
 
 ## ⚙️ ML Model Details
 
